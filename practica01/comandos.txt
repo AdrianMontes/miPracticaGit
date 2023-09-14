@@ -1,0 +1,12 @@
+git clone https://github.com/DavidBernalGonzalez/practicaGit.git -> Para clonar el repositorio remoto
+git branch -> Mostrar ramas de un repositorio
+git checkout -> Cambiar a otra rama
+git status -> Mostrar los archivos cambiados
+git add . -> Añadir los cambios al repositorio local
+git commit -m <mensaje> -> Subir los cambios al repositorio local
+git branch <rama> -> Crear una rama
+git push -> Subir los cambios del repositorio local al remoto
+git remote remove origin -> Elimina el remoto 'origin'
+git remote add origin https://github.com/AdrianMontes/miPracticaGit.git -> Añadir un remoto nuevo 'origin' al repositorio indicado
+git push --set-upstream origin practica1_MONTESMUNOZ_ADRIAN -> Subir los cambios del repositorio local al remoto
+git merge -> Fusionar los cambios con otra rama
